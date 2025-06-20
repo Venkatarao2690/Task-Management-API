@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/tejeswarareddyP/task_manage_api.git
+git clone (https://github.com/Venkatarao2690/Task-Management-API.git)
 cd task_manage_api
 Build and run the Docker container:
 
